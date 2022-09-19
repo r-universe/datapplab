@@ -3,9 +3,6 @@
     "package": "gage"
   },
   {
-    "package": "pathview"
-  },
-  {
     "package": "SBGNview"
   }
 ]

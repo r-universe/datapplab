@@ -8,11 +8,6 @@
 	url = https://github.com/datapplab/gage
 	shallow = true
 	registered = true
-[submodule "pathview"]
-	path = pathview
-	url = https://github.com/datapplab/pathview
-	shallow = true
-	registered = true
 [submodule "SBGNview"]
 	path = SBGNview
 	url = https://github.com/datapplab/sbgnview
