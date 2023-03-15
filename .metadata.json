@@ -1,11 +1,11 @@
 [
   {
-    "package": "gage"
+    "package": "SBGNview"
   },
   {
     "package": "pathview"
   },
   {
-    "package": "SBGNview"
+    "package": "gage"
   }
 ]
