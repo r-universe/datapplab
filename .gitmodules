@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "SBGNview"]
-	path = SBGNview
-	url = https://github.com/datapplab/sbgnview
+[submodule "gage"]
+	path = gage
+	url = https://github.com/datapplab/gage
 	shallow = true
 	registered = true
 [submodule "pathview"]
@@ -13,8 +13,8 @@
 	url = https://github.com/datapplab/pathview
 	shallow = true
 	registered = true
-[submodule "gage"]
-	path = gage
-	url = https://github.com/datapplab/gage
+[submodule "SBGNview"]
+	path = SBGNview
+	url = https://github.com/datapplab/sbgnview
 	shallow = true
 	registered = true
